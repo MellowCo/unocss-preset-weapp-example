@@ -4,7 +4,7 @@
     {
       "path": "pages/index/index",
       "style": {
-        "navigationBarTitleText": "uni-app"
+        "navigationBarTitleText": "unocss-preset-weapp"
       }
     },
     {
@@ -17,6 +17,18 @@
       "path": "pages/size/index",
       "style": {
         "navigationBarTitleText": "size"
+      }
+    },
+    {
+      "path": "pages/shadow/index",
+      "style": {
+        "navigationBarTitleText": "shadow"
+      }
+    },
+    {
+      "path": "pages/border/index",
+      "style": {
+        "navigationBarTitleText": "border"
       }
     }
   ],
