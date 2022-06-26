@@ -1,9 +1,7 @@
 <script setup lang="ts">
-import { ref } from 'vue'
-
 const list = [
   { name: 'font', path: '/pages/font/index' },
-  { name: 'font', path: '/pages/font/index' },
+  { name: 'size', path: '/pages/size/index' },
   { name: 'font', path: '/pages/font/index' },
   { name: 'font', path: '/pages/font/index' },
 ]
@@ -27,17 +25,17 @@ const to = (to: string) => {
 .content {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }
 
 .logo {
-  height: 200rpx;
-  width: 200rpx;
-  margin-top: 200rpx;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 200rpx;
   margin-bottom: 50rpx;
+  width: 200rpx;
+  height: 200rpx;
 }
 
 .text-area {
@@ -49,4 +47,5 @@ const to = (to: string) => {
   font-size: 36rpx;
   color: #8f8f94;
 }
+
 </style>

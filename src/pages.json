@@ -12,6 +12,12 @@
       "style": {
         "navigationBarTitleText": "font"
       }
+    },
+    {
+      "path": "pages/size/index",
+      "style": {
+        "navigationBarTitleText": "size"
+      }
     }
   ],
   "globalStyle": {
