@@ -5,6 +5,7 @@ const list = [
   { name: 'shadow', path: '/pages/shadow/index' },
   { name: 'border', path: '/pages/border/index' },
   { name: 'spacing', path: '/pages/spacing/index' },
+  { name: 'shortcuts', path: '/pages/shortcuts/index' },
 ]
 
 const to = (to: string) => {

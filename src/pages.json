@@ -36,6 +36,12 @@
       "style": {
         "navigationBarTitleText": "spacing"
       }
+    },
+    {
+      "path": "pages/shortcuts/index",
+      "style": {
+        "navigationBarTitleText": "shortcuts"
+      }
     }
   ],
   "globalStyle": {
