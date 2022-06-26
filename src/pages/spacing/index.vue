@@ -1,7 +1,7 @@
 <!--
  * @Author: licl
  * @Date: 2022-06-26 19:25:34
- * @LastEditTime: 2022-06-26 19:37:31
+ * @LastEditTime: 2022-06-26 20:16:46
  * @LastEditors: licl
  * @Description:
 -->
@@ -36,6 +36,7 @@ const margin = {
     'm-none',
     'm-xs',
     'm-sm',
+    'm-md',
     'm-lg',
     'm-xl',
     'm-2xl',
