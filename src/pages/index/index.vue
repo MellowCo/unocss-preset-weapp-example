@@ -4,6 +4,7 @@ const list = [
   { name: 'size', path: '/pages/size/index' },
   { name: 'shadow', path: '/pages/shadow/index' },
   { name: 'border', path: '/pages/border/index' },
+  { name: 'spacing', path: '/pages/spacing/index' },
 ]
 
 const to = (to: string) => {

@@ -30,6 +30,12 @@
       "style": {
         "navigationBarTitleText": "border"
       }
+    },
+    {
+      "path": "pages/spacing/index",
+      "style": {
+        "navigationBarTitleText": "spacing"
+      }
     }
   ],
   "globalStyle": {
